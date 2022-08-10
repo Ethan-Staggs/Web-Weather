@@ -3,5 +3,6 @@
  <h3>Check the current weather for any city in the world.
  
  
-[Demo](https://user-images.githubusercontent.com/78055596/183976416-0782ed76-3a70-4db6-be02-fd140fcd72fc.webm)
 
+
+[Demo.webm](https://user-images.githubusercontent.com/78055596/183976765-3b966a75-c5ac-4345-b678-6bba810804bc.webm)
